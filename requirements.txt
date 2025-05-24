@@ -2,4 +2,3 @@ selenium
 pytest
 pytest_html
 webdriver-manager
-java
